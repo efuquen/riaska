@@ -1,0 +1,4 @@
+riaska
+======
+
+Riak Scala Client
